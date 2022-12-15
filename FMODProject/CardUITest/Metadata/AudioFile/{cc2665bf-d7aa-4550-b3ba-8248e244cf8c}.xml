@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cc2665bf-d7aa-4550-b3ba-8248e244cf8c}">
+		<property name="assetPath">
+			<value>Chick.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.027687074829931973</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cfd5323c-1b5f-4d97-bd64-4050dd097a0f}</destination>
+		</relationship>
+	</object>
+</objects>
