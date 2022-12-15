@@ -832,7 +832,7 @@ MonoBehaviour:
   startingPage: {fileID: 1153413290}
   shell: {fileID: 1153413288}
   cardHand: {fileID: 712120643}
-  downloadPictures: 0
+  downloadPictures: 1
 --- !u!4 &1765592629
 Transform:
   m_ObjectHideFlags: 0
