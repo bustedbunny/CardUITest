@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 using CardUITest.Cards;
-using CardUITest.Cards.DefaultImplementation;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 

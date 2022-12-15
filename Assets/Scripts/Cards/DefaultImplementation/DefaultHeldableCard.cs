@@ -1,5 +1,4 @@
 using CardUITest.Cards.Hand;
-using DG.Tweening;
 using UnityEngine;
 
 namespace CardUITest.Cards.DefaultImplementation

@@ -1,8 +1,6 @@
-using Cysharp.Threading.Tasks;
 using DG.Tweening;
 using FMODUnity;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace CardUITest.Cards.DefaultImplementation.Implementations
 {

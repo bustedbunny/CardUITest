@@ -10,7 +10,7 @@ using CardUITest.UI.Presentation.Common;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
 
-namespace CardUITest
+namespace CardUITest.GamePlay
 {
     public class GameInstance : MonoBehaviour
     {
@@ -35,8 +35,11 @@ namespace CardUITest
 
         private void OnDestroy()
         {
-            _cts?.Cancel();
-            _cts?.Dispose();
+            if (_cts is not null && !_cts.IsCancellationRequested)
+            {
+                _cts.Cancel();
+                _cts.Dispose();
+            }
         }
 
         public void StartTheGame()

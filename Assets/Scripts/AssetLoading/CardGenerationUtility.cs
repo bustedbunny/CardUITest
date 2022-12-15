@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using CardUITest.Cards;
-using CardUITest.Cards.DefaultImplementation;
 using UnityEngine;
 using Random = UnityEngine.Random;
 

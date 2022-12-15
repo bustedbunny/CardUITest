@@ -2,7 +2,6 @@ using CardUITest.GamePlay;
 using CardUITest.UI.Presentation.Common;
 using Cysharp.Threading.Tasks;
 using UnityEngine;
-using UnityEngine.Serialization;
 using UnityEngine.UIElements;
 
 namespace CardUITest.UI.Presentation

@@ -1,5 +1,3 @@
-using CardUITest.Cards.DefaultImplementation;
-
 namespace CardUITest.Cards
 {
     public interface ICard

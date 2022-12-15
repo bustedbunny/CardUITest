@@ -1,8 +1,6 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using CardUITest.Cards.Hand;
-using DG.Tweening;
 using UnityEngine;
 using UnityEngine.Assertions;
 
